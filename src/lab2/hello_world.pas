@@ -1,4 +1,4 @@
 PROGRAM Hello_world (INPUT, OUTPUT);
 BEGIN
-  WRITE('Hello world4') 
+  WRITE('Hello world2') 
 END.
